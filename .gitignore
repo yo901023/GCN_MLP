@@ -1,0 +1,20 @@
+# dataset
+dataset/
+
+# output folders
+output/
+output_*/
+
+# checkpoints
+checkpoint/
+checkpoints/
+*.pth
+*.pt
+
+# python cache
+__pycache__/
+*.pyc
+
+# logs
+runs/
+logs/
